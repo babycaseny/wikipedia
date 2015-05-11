@@ -1,8 +1,8 @@
 # wikipedia
 
-tool for extracting plain text from wikipedia articles
+tūl für iksträktiŋ pläin tekst from wikipedia dè artikols
 
-## Installing:
+## Instoliŋ:
 
 a gem is available, so fire up your terminal:
 
@@ -10,7 +10,7 @@ a gem is available, so fire up your terminal:
 $ gem install wikipedia
 ````
 
-## Usage:
+## Yuseij:
 
 it's easy:
 
@@ -38,12 +38,6 @@ irb(main):003:0> apple.ambiguous?
 => true
 ````
 
-## TODO
+## Orijinol sõrs
 
-* Integrate it with the [Opensearch API] (http://www.mediawiki.org/wiki/API%3aOpensearch).
-* Provide a method for classifying text based on context (using data from Wikipedia's disambiguation pages).
-* Switch to Nokogiri or provide support for both Nokogiri and Hpricot?
-
-## Disclaimer
-
-[Hpricot] (https://github.com/whymirror/hpricot) was used as a tribute to [whytheluckystiff] (http://en.wikipedia.org/wiki/Why_the_lucky_stiff).
+* https://github.com/matiasinsaurralde/wikipedia
